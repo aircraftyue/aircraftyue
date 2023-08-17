@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
-I am Yue, currently studying for a master's degree in University of Chinese Academy of Sciences.   
-I enjoy working on problems related to Computer Vision, Image Processing, Pose Estimation, Augmented Reality, and other related topics.  
+I am YueZhen, currently studying for a master's degree in University of Chinese Academy of Sciences.   
+I enjoy working on problems related to the Computer Vision, Image Processing, Pose Estimation, Augmented Reality, Data Analysis and other related topics.  
 
 Feel free to connect with me: yuez@sari.ac.cn  
 
